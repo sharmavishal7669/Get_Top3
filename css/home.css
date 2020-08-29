@@ -1,0 +1,75 @@
+html,body{
+    height:100%;
+    margin:0;
+}
+
+.page1bg{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url('../imgs/laptop-2559792_1920.jpg');
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.mouse{
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    z-index: 0;
+    box-sizing: border-box;
+}
+
+.downbutton{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #254b55;
+    border-radius: 50%;
+    background: #254b55;
+    position: absolute;
+    padding: 3px;
+    text-decoration: none;
+    display: block;
+}
+
+#browsebutton{
+    margin-top: 10%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1%;
+    border: 2px solid white;
+    border-radius: 10em;
+}
+
+#browsebutton:hover{
+    box-shadow: -5px 5px 25px rgba(255, 255, 255, 0.7);
+    background-color: rgba(255,255,255, 0.5);
+    border-color: black;
+    color: black;
+}
+
+.subheading{
+    font-weight: 600;
+}
+
+.subheading::after{
+    content: '';
+    display: inline-block;
+    margin-left: 20px;
+    height: 1px;
+    width:10%;
+    background-color: black;
+}
+
+.subheading::before{
+    content: '';
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 4px;
+    height: 1px;
+    width: 10%;
+    background-color: black;
+}
