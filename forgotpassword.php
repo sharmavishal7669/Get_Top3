@@ -19,8 +19,11 @@
 
             $message = "Please use this password to login ".$password;
             $headers = "From : help.gettop3@gmail.com";
-            if(mail($to, $subject, $message, $headers))
+            if(mail($to, $subject, $message, $headers)){
                 echo "Your Password has been sent to your email id";
+                sleep(3);
+                header('Location: loginpage.php');
+            }
             else
                 echo "Failed to Recover your password, try again";
         }

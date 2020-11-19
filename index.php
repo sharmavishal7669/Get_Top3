@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-
+        <title>GetTop3 Homepage</title>
         <?php
             include 'head.php';
         ?>
@@ -11,7 +11,6 @@
     <body >
         
     
-
     <div class="d-flex flex-column" style="height:100%;">
 
         <!-- Navbar -->
@@ -30,7 +29,7 @@
             </div>
 
             <div class="text-center">
-                <input type="button"  id="browsebutton" value="BROWSE NOW" >
+                <input type="button" id="browsebutton" value="BROWSE NOW" onclick="window.location.href='browse.php'">
             </div>
         </div>
 

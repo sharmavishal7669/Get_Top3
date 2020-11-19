@@ -27,7 +27,7 @@
                     </div>
                 </div>
 
-                <!-- Login Form -->
+                <!-- Register Form -->
 
                 <div class=" d-flex justify-content-center align-items-center col-md-12 col-lg-4">
                     <div style="width: 360px;">
