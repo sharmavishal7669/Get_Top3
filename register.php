@@ -1,5 +1,4 @@
 <?php
-
     if(isset($_POST['submit']))
     {
         $firstName = $_POST['fname'];
@@ -29,7 +28,6 @@
         $stmt->close();
         $connect->close();
     }
-    
+     
 } 
-    
 ?>

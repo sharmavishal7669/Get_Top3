@@ -3,6 +3,7 @@
   <head>
     
     <?php
+        session_start();
         include 'head.php';
     ?>
     
@@ -57,38 +58,27 @@
 
         require "dbconfig.php";
 
-        $stmt = $connect->prepare("UPDATE registration SET password='$new_password' WHERE email = ?");
+        $email = $_SESSION["email"];
+
+        $stmt = $connect->prepare("SELECT * FROM registration WHERE email = ?");
         $stmt->bind_param('s', $email);
         $stmt->execute();
         $result = $stmt->get_result();
         $user = $result->fetch_object();
-        echo $user->password;
-        $stmt->close();
-        $connect->close();
-        // if($user)
-        // {
-        //     if( $password==($user->password))
-        //     {
-        //         $_SESSION["loggedin"] = true;
-        //         $_SESSION["email"] = $email;
-        //         header('Location: profile.php');
-        //     }
-        //     else
-        //     {
-        //         $stmt->close();
-            
-        //         header('Location: loginpage.php?email_error=Incorrect Password');
-            
-        //     }
+        if($new_password==$confirm_password && $old_password==($user->password))
+        {
+            $sql= "UPDATE registration SET password='$new_password' WHERE email='$email'";
+            if ($connect->query($sql) === TRUE) {
+                echo "Password updated successfully.";
+            } else {
+                echo "Error: " . $sql . "<br>" . $connect->error;
+            }
+        }
+        else if($new_password!=$confirm_password)
+            echo "Please check your password";
+        else
+            echo "Your old password is incorrect!";
         
-        // }
-        // else
-        // {
-        //     $stmt->close();
-        //     require 'redirectingpage.php';
-            
-        
-        // }
     }
 
 ?>

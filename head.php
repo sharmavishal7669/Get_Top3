@@ -2,9 +2,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-<title>GetTop3 Homepage</title>
-
 <link rel="stylesheet" type="text/css" href="css/navbar.css">
 <link rel="stylesheet" type="text/css" href="css/form.css">
 
