@@ -83,3 +83,16 @@ img{
         flex-direction: column;
     }
 }
+
+.cards .container{
+    padding:3%;
+}
+
+.slinks a:link,
+.slinks a:visited,
+.slinks a:active{
+    color: white;
+}
+.slinks a:hover{
+    text-decoration: none;
+}
