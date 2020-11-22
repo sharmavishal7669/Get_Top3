@@ -32,29 +32,222 @@
     </div>
 
     <!-- Cards -->
-            <div class="categories mt-5">
-                <div class="h2 ml-3 text-center">Browse Popular Categories</div>
+            <div class="categories mt-5  bg-dark">
+                <div class="h2 text-center text-white pt-2">Browse Popular Categories</div>
                 <div class="gallery">
-                        <a href="https://coursera.org/share/6b3dd4cd171e445f3ebdff13f305898c" target="_blank" class="hover_effect">
-                            <img src="imgs/jsjpg.jpg" alt="pic">
+                        <a href="#earphone"  class="hover_effect">
+                            <img src="imgs/jsjpg.jpg" alt="pic" />
                             <i class="fa fa-hand-o-down  fa-4x" aria-hidden="true"></i>
                         </a>
-                  
-                        <a href="https://www.coursera.org/account/accomplishments/records/QYR9ZLC9GAZZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" class="hover_effect">
+
+                        <a href="#phones"  class="hover_effect">
                             <img src="imgs/html5.webp" alt="smartphone pic">
                             <i class="fa fa-hand-o-down  fa-4x" aria-hidden="true"></i>
                         </a>
                     
-                        <a href="https://coursera.org/share/5d47c41cb3878bd5df41876fbc9dadda" target="_blank" class="hover_effect">
+                        <a href="#laptops"  class="hover_effect">
                             <img src="imgs/css3.jpg" alt="pic">
                             <i class="fa fa-hand-o-down  fa-4x" aria-hidden="true"></i>
                         </a>
-                        
-                        <a href="https://coursera.org/share/2c48b06cb5549be54ce3991b24a32401" target="_blank" class="hover_effect">
-                            <img src="imgs/python.jpg" alt="pic">
+                        <a href="#watches"  class="hover_effect">
+                            <img src="imgs/python.jpg" alt="pic" />
                             <i class="fa fa-hand-o-down  fa-4x" aria-hidden="true"></i>
                         </a>
                 </div>
             </div>
+
+
+            <br id="earphone"><br>
+
+                    <!-- True Wireless -->
+
+            <div class="p-2 bg-dark cards">
+            <div class="h2 text-center text-white pb-2">True Wireless Earphones</div>
+    <div class="d-flex justify-content-around pb-2">
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/Realme buds air pro 5000.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹5000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/oppo encore free 10000.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹10000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/apple.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹15000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+</div>
+</div>
+
+<br id="phones"><br>
+
+            <!-- Smart Phones -->
+<div class="p-2 bg-dark cards">
+            <div class="h2 text-center text-white pb-2">Smart Phones</div>
+    <div class="d-flex justify-content-around pb-2">
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹10000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container" >
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹15000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹20000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+</div>
+</div>
+
+<br id="laptops"><br>
+
+            <!-- Laptops -->
+<div class="p-2 bg-dark cards">
+            <div class="h2 text-center text-white pb-2" >Laptops</div>
+    <div class="d-flex justify-content-around pb-2">
+            <div class="container" >
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹40000</h4>
+                    
+                    <a  href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container" >
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹50000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹60000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+</div>
+</div>
+
+<br id="watches" ><br>
+
+            <!-- Smart Watches -->
+<div class="p-2 bg-dark cards">
+            <div class="h2 text-center text-white pb-2">Smart Watches</div>
+    <div class="d-flex justify-content-around pb-2">
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹5000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container" >
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹10000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+
+            <div class="container">
+            <div class="card" style="width:100%">
+                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Under ₹15000</h4>
+                    
+                    <a href="#" class="btn btn-primary">Get Top3</a>
+                </div>
+            </div>
+            </div>
+</div>
+</div>
+
+<br><br><br><br><br>
+            <!--  Footer -->
+            <div class="container-fluid"">
+            <div class="d-flex justify-content-between bg-dark px-5 pt-2">
+                <div class="p-2 slinks" id="link">
+                    <span class="mr-5 text-primary font-weight-bolder">FOLLOW US ON</span>
+                    <a href="https://twitter.com/" target="_blank">
+                        TWITTER<i class="fa fa-twitter ml-2" aria-hidden="true"></i>
+                    </a>
+                    <span class="mx-2">|</span>
+                    <a href="https://facebook.com/" target="_blank">
+                        FACEBOOK <i class="fa fa-facebook ml-2" aria-hidden="true"></i>
+                    </a>
+                    <span class="mx-2">|</span>
+                    <a href="https://instagram.com/">
+                        INSTAGRAM <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                </div>
+
+                <!-- Copyright-->
+                <div class="p-2 slinks text-white">
+                © 2020  <a href="index.php" class="font-weight-bolder text-primary">Get TOP3 </a> All Rights Reserved.  
+                </div>
+                
+            </div>  
+            </div>
+  
 </body>
 </html>
