@@ -107,7 +107,7 @@
     <div class="d-flex justify-content-around pb-2">
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/motoe7plus10000.jfif" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
                     
@@ -118,7 +118,7 @@
 
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/realme-narzo-20-pro-15k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
                     
@@ -129,7 +129,7 @@
 
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/Poco-X3-20k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹20000</h4>
                     
@@ -148,7 +148,7 @@
     <div class="d-flex justify-content-around pb-2">
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/hp_15-40k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹40000</h4>
                     
@@ -159,7 +159,7 @@
 
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/lenovo_ideapad-520-50k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹50000</h4>
                     
@@ -170,7 +170,7 @@
 
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/lenovo_legion-y520-60k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹60000</h4>
                     
@@ -189,7 +189,7 @@
     <div class="d-flex justify-content-around pb-2">
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/noise-5k.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹5000</h4>
                     
@@ -200,7 +200,7 @@
 
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/fossil-q-explorist-10k.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
                     
@@ -211,7 +211,7 @@
 
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/1.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/samsung_galaxy-15k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
                     
