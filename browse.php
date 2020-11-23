@@ -170,7 +170,7 @@
 
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/lenovo_legion-y520-60k.webp" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/lenovo_leigon-y520-60k.webp" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹60000</h4>
                     
