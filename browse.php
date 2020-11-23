@@ -69,8 +69,7 @@
                 <img class="card-img-top" src="imgs/Realme buds air pro 5000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹5000</h4>
-                    
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="tws.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
@@ -80,7 +79,6 @@
                 <img class="card-img-top" src="imgs/oppo encore free 10000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
-                    
                     <a href="#" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
@@ -91,7 +89,6 @@
                 <img class="card-img-top" src="imgs/apple.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
-                    
                     <a href="#" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
@@ -118,7 +115,7 @@
 
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/realme-narzo-20-pro-15k.webp" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/rmnarzo10000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
                     
