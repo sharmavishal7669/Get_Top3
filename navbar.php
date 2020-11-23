@@ -9,10 +9,12 @@
         <div class="collapse navbar-collapse px-1 mx-2" id="navbarToggle">
             <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a  class="nav-link active" href="loginpage.php">Home <span class="sr-only">(current)</span></a>
+                        <a  class="nav-link" href="loginpage.php">
+                            <span><i class="fa fa-home" aria-hidden="true" style="color: white"></i> Home <span class="sr-only">(current)</span></span></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Categories</a>
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                            <span><i class="fa fa-list" aria-hidden="true" style="color: white"></i> Categories</span></a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">Smart Phones</a>
                             <a class="dropdown-item" href="#">Laptops</a>
@@ -21,7 +23,8 @@
                     </li>
                     
                     <li class="nav-item">
-                    <a class="nav-link" href="#">About Us</a>        
+                    <a class="nav-link" href="#">
+                        <span><i class="fa fa-info" aria-hidden="true" style="color: white"></i> About Us</span></a>        
                     </li>
 
                     
@@ -62,5 +65,6 @@
                     
             </ul>
          </div>
+         
     </div>
 </nav> 
