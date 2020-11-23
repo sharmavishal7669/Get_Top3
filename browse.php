@@ -224,7 +224,7 @@
 
 <br><br><br><br><br>
             <!--  Footer -->
-            <div class="container-fluid"">
+            <div class="container-fluid">
             <div class="d-flex justify-content-between bg-dark px-5 pt-2">
                 <div class="p-2 slinks" id="link">
                     <span class="mr-5 text-primary font-weight-bolder">FOLLOW US ON</span>
@@ -236,7 +236,7 @@
                         FACEBOOK <i class="fa fa-facebook ml-2" aria-hidden="true"></i>
                     </a>
                     <span class="mx-2">|</span>
-                    <a href="https://instagram.com/">
+                    <a href="https://instagram.com/tubextech_ig">
                         INSTAGRAM <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
                 </div>
