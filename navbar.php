@@ -22,10 +22,6 @@
                         </div>
                     </li>
                     
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        <span><i class="fa fa-info" aria-hidden="true" style="color: white"></i> About Us</span></a>        
-                    </li>
 
                     
 

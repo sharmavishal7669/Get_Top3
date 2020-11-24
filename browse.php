@@ -69,8 +69,7 @@
                 <img class="card-img-top" src="imgs/Realme buds air pro 5000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹5000</h4>
-                    
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="tws.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
@@ -80,7 +79,6 @@
                 <img class="card-img-top" src="imgs/oppo encore free 10000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
-                    
                     <a href="#" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
@@ -91,7 +89,6 @@
                 <img class="card-img-top" src="imgs/apple.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
-                    
                     <a href="#" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
@@ -118,7 +115,7 @@
 
             <div class="container" >
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/realme-narzo-20-pro-15k.webp" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/rmnarzo10000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
                     
@@ -224,7 +221,7 @@
 
 <br><br><br><br><br>
             <!--  Footer -->
-            <div class="container-fluid"">
+            <div class="container-fluid">
             <div class="d-flex justify-content-between bg-dark px-5 pt-2">
                 <div class="p-2 slinks" id="link">
                     <span class="mr-5 text-primary font-weight-bolder">FOLLOW US ON</span>
@@ -236,7 +233,7 @@
                         FACEBOOK <i class="fa fa-facebook ml-2" aria-hidden="true"></i>
                     </a>
                     <span class="mx-2">|</span>
-                    <a href="https://instagram.com/">
+                    <a href="https://instagram.com/tubextech_ig">
                         INSTAGRAM <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
                 </div>
