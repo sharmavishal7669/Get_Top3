@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse px-1 mx-2" id="navbarToggle">
             <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a  class="nav-link" href="loginpage.php">
+                        <a  class="nav-link" href="index.php">
                             <span><i class="fa fa-home" aria-hidden="true" style="color: white"></i> Home <span class="sr-only">(current)</span></span></a>
                     </li>
                     <li class="nav-item dropdown">
