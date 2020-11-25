@@ -9,6 +9,7 @@
     <?php require "navbar.php";?>
     <br>
     <br>
+    
     <div id="bannercarousel" class="carousel slide mx-auto m-3" style="max-width:98%;" data-ride="carousel">
         <div class="carousel-inner mx-auto">
             <div class="carousel-item active">
@@ -18,7 +19,7 @@
                 <img src="imgs/coming soon 2.png" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="imgs/3.jpg" class="d-block" alt="...">
+                <img src="imgs/cs3.png" class="d-block" alt="...">
             </div>
         </div>
         <a class="carousel-control-prev" href="#bannercarousel" role="button" data-slide="prev">
