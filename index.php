@@ -46,10 +46,10 @@
     </div>
 
 
-    <div id="page2" style="height:70px;" class="bg-secondary">
+    <div id="page2" style="height:70px;" class="bg-light">
     </div>
 
-    <section id="page2" class="bg-secondary" style="height:100%;" >
+    <section id="page2" class="bg-light" style="height:100%;" >
         
         <div class="container">
             <div class="row justify-content center">
