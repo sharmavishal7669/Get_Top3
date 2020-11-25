@@ -108,7 +108,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
                     
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="sp.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
@@ -119,7 +119,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
                     
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="sp1.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
@@ -130,7 +130,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Under ₹20000</h4>
                     
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="sp2.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
