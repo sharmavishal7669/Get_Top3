@@ -6,6 +6,7 @@
             include 'head.php';
         ?>
         <link rel="stylesheet" type="text/css" href="css/home.css">
+        <link rel="stylesheet" href="css/browsenow.css">
         
         
     </head>
@@ -114,21 +115,53 @@
     </section>   
  
     <div class="bg-info" style="height:100%;">
+        <div class="container">
+            <div class="row justify-content center">
+                <div class="col-md-12 text-center">
+                    <div>
+            &nbsp; &nbsp;
+
+        </div>
+        <div>
+            &nbsp; &nbsp;
+            
+        </div>
+
+                    <h1 class="mb-3"><i><u>Stay Tuned for more updates!!</u></i></h1>
+                </div>
+            </div>
+        </div>
         
         <div>
-            Useful Content Goes HERE!
-        </div>  
+            &nbsp; &nbsp;
 
+        </div>
         <div>
-            Company Updates Goes Here!
+            &nbsp; &nbsp;
+            
         </div>
 
-        <div>
-            Offers Goes Here!
+        <div id="bannercarousel" class="carousel slide mx-auto m-3" style="max-width:98%;" data-ride="carousel">
+        <div class="carousel-inner mx-auto">
+            <div class="carousel-item active">
+                <img src="imgs/Trending banner.png" class="d-block" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="imgs/coming soon 2.png" class="d-block" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="imgs/cs3.png" class="d-block" alt="...">
+            </div>
         </div>
-
-       
-
+        <a class="carousel-control-prev" href="#bannercarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hiddden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#bannercarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hiddden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
     </div>
     <div style="background-color: #333; color:white ;">
         <?php require 'footer.php' ?>
