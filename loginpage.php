@@ -25,7 +25,7 @@
             <div class="d-flex">
                 <div class="d-none d-lg-block col-lg-8 p-2 flex-grow-1 text-center my-auto" >
                     <div class="card mt-4">
-                        <img class="card img-responsive w-100" src="imgs/arogya-setu.jpg" alt="Arogya_Setu"> 
+                        <img class="card img-responsive w-55" src="imgs/php-login-and-authentication-the-definitive-guide.png" alt="Login" > 
                     </div>
                 </div>
 

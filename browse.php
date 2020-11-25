@@ -104,7 +104,7 @@
     <div class="d-flex justify-content-around pb-2">
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/motoe7plus10000.jfif" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/gsmarena_000-1-e1597494842188.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
                     
@@ -126,7 +126,7 @@
 
             <div class="container">
             <div class="card" style="width:100%">
-                <img class="card-img-top" src="imgs/Poco-X3-20k.webp" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="imgs/poco-x3-india-launch-image-2.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹20000</h4>
                     

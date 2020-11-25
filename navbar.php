@@ -9,16 +9,17 @@
         <div class="collapse navbar-collapse px-1 mx-2" id="navbarToggle">
             <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a  class="nav-link" href="loginpage.php">
+                        <a  class="nav-link" href="index.php">
                             <span><i class="fa fa-home" aria-hidden="true" style="color: white"></i> Home <span class="sr-only">(current)</span></span></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             <span><i class="fa fa-list" aria-hidden="true" style="color: white"></i> Categories</span></a>
                         <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">True wireless earphones</a>
                             <a class="dropdown-item" href="#">Smart Phones</a>
                             <a class="dropdown-item" href="#">Laptops</a>
-                            <a class="dropdown-item" href="#">Headphones</a>
+                            <a class="dropdown-item" href="#">Smart Watches</a>
                         </div>
                     </li>
                     
