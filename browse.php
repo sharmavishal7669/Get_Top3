@@ -108,7 +108,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
                     
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="phone10k.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>

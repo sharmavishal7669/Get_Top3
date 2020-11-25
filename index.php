@@ -98,10 +98,12 @@
         </div>
         
         <div class="card-deck">
+            
             <div class="card bg-success">
                 <h2><i class="fa fa-heart fa-3x"></i></h2>
     <div class="card-body text-center">
       <h1 class="card-text">Easy To Use!</h1>
+
     </div>
   </div>
   <div class="card bg-danger">
