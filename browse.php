@@ -79,7 +79,7 @@
                 <img class="card-img-top" src="imgs/oppo encore free 10000.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹10000</h4>
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="tws1.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
@@ -89,7 +89,7 @@
                 <img class="card-img-top" src="imgs/apple.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Under ₹15000</h4>
-                    <a href="#" class="btn btn-primary">Get Top3</a>
+                    <a href="tws2.php" class="btn btn-primary">Get Top3</a>
                 </div>
             </div>
             </div>
