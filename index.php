@@ -45,10 +45,10 @@
     </div>
 
 
-    <div id="page2" style="height:70px;" class="bg-primary">
+    <div id="page2" style="height:70px;" class="bg-secondary">
     </div>
 
-    <section id="page2" class="bg-primary" style="height:100%;" >
+    <section id="page2" class="bg-secondary" style="height:100%;" >
         
         <div class="container">
             <div class="row justify-content center">
@@ -77,7 +77,7 @@
  
         <div>
            <div class="card-deck">
-  <div class="card bg-dark text-white">
+  <div class="card bg-info text-white">
     <h2><i class="fa fa-check-square-o fa-3x"></i></h2>
     <div class="card-body text-center">
       <h1 class="card-text">Quick and Accurate Results!</h1>
