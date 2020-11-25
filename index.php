@@ -63,24 +63,6 @@
         </div>  
 
         <div class="container-fluid px-0">
-            <div class="row d-sm-flex"></div>
-        </div>
-        
- 
-    <div class="mb-5">
-        <div class="card-deck m-2">
-            <div class="card bg-info text-white p-5">
-                <h2><i class="fa fa-check-square-o fa-3x"></i></h2>
-                <div class="card-body text-center">
-                    <h1 class="card-text">Quick and Accurate Results!</h1>
-                </div>
-            </div>
-            <div class="card bg-warning p-5">
-                <h2><i class="fa fa-clock-o fa-3x"></i></h2>
-                <div class="card-body text-center">
-                    <h1 class="card-text">Save Your Time!</h1>
-                </div>
-            </div>
             
         </div>
         <div class="card-deck m-2">
