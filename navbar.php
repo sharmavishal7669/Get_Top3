@@ -16,10 +16,10 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             <span><i class="fa fa-list" aria-hidden="true" style="color: white"></i> Categories</span></a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">True wireless earphones</a>
-                            <a class="dropdown-item" href="#">Smart Phones</a>
-                            <a class="dropdown-item" href="#">Laptops</a>
-                            <a class="dropdown-item" href="#">Smart Watches</a>
+                            <a class="dropdown-item" href="browse.php">True wireless earphones</a>
+                            <a class="dropdown-item" href="browse.php">Smart Phones</a>
+                            <a class="dropdown-item" href="browse.php">Laptops</a>
+                            <a class="dropdown-item" href="browse.php">Smart Watches</a>
                         </div>
                     </li>
                     
