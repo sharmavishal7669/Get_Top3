@@ -77,7 +77,7 @@
         </div>
  
         <div>
-           <div class="card-deck">
+           <div class="card-deck mx-5">
   <div class="card bg-info text-white">
     <h2><i class="fa fa-check-square-o fa-3x"></i></h2>
     <div class="card-body text-center">
@@ -97,7 +97,7 @@
             &nbsp; &nbsp;
         </div>
         
-        <div class="card-deck">
+        <div class="card-deck mx-5">
             <div class="card bg-success">
                 <h2><i class="fa fa-heart fa-3x"></i></h2>
     <div class="card-body text-center">
