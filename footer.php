@@ -27,7 +27,7 @@
 
                 <!-- Copyright-->
                 <div class="p-2 slinks text-white">
-                © 2020  <a href="index.php" class="font-weight-bolder text-primary">Get TOP3 </a> All Rights Reserved.  
+                © 2020  <a href="index.php" class="font-weight-bolder text-primary">Get TOP3 </a>| All Rights Reserved.  
                 </div>
                 
             </div>  

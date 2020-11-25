@@ -7,6 +7,7 @@
         ?>
         <link rel="stylesheet" type="text/css" href="css/home.css">
         
+        
     </head>
     <body >
         
@@ -47,7 +48,7 @@
     <div id="page2" style="height:70px;" class="bg-primary">
     </div>
 
-    <section class="bg-primary" style="height:100%;" >
+    <section id="page2" class="bg-primary" style="height:100%;" >
         
         <div class="container">
             <div class="row justify-content center">
@@ -65,13 +66,49 @@
                 
             </div>
         </div>
-
         <div>
-            Trust Indicators Goes Here!
+            &nbsp; &nbsp;
+
+        </div>
+        <div>
+            &nbsp; &nbsp;
+            
+        </div>
+ 
+        <div>
+           <div class="card-deck">
+  <div class="card bg-dark text-white">
+    <h2><i class="fa fa-check-square-o fa-3x"></i></h2>
+    <div class="card-body text-center">
+      <h1 class="card-text">Quick and Accurate Results!</h1>
+    </div>
+  </div>
+  <div class="card bg-warning">
+    <h2><i class="fa fa-clock-o fa-3x"></i></h2>
+    <div class="card-body text-center">
+      <h1 class="card-text">Save Your Time!</h1>
+    </div>
+  </div>
+  
+</div>
+        </div>
+        <div>
+            &nbsp; &nbsp;
         </div>
         
-        <div>
-            Social Proofs Goes Here!
+        <div class="card-deck">
+            <div class="card bg-success">
+                <h2><i class="fa fa-heart fa-3x"></i></h2>
+    <div class="card-body text-center">
+      <h1 class="card-text">Easy To Use!</h1>
+    </div>
+  </div>
+  <div class="card bg-danger">
+    <h2><i class="fa fa-user-circle-o fa-3x"></i></h2>
+    <div class="card-body text-center">
+      <h1 class="card-text">Get your desired product in few steps!</h1>
+    </div>
+  </div>
         </div>
 
     </section>   
@@ -89,6 +126,8 @@
         <div>
             Offers Goes Here!
         </div>
+
+       
 
     </div>
     <div style="background-color: #333; color:white ;">
