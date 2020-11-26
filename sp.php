@@ -175,6 +175,7 @@ Love clicking pictures at night? Well, then this Motorola smartphone might just 
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>

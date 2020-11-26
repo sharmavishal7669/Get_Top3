@@ -173,6 +173,7 @@ With the Noise Edge smartwatch, you will never have to miss an important ping or
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>

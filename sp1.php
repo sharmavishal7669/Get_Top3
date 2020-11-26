@@ -177,6 +177,7 @@ Thanks to its Qualcomm Snapdragon 720G processor, Qualcomm Adreno 618 GPU, and u
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>

@@ -178,6 +178,7 @@ NoiseFit Endure is a rugged smartwatch with a stunning 1.28 inch display and 100
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>
