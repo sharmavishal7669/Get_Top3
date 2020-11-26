@@ -149,9 +149,6 @@
             <div class="carousel-item">
                 <img src="imgs/coming soon 2.png" class="d-block" alt="...">
             </div>
-            <div class="carousel-item">
-                <img src="imgs/cs3.png" class="d-block" alt="...">
-            </div>
         </div>
         <a class="carousel-control-prev" href="#bannercarousel" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hiddden="true"></span>
