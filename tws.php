@@ -106,7 +106,7 @@
       <div class="p-2 bg-light">
         <div class="d-flex">
           <div class="flex-fill text-center"><a href="#" class="btn ">Add to Favourites <span><i class="fa fa-heart-o" aria-hidden="true"></i></span></a></div>
-          <div class="flex-fill text-center"><a href="https://www.amazon.in/OnePlus-E501A-Buds-White/dp/B08CVMXPGY/ref=sr_1_2?dchild=1&keywords=oneplus+buds&qid=1606184641&sr=8-2" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
+          <div class="flex-fill text-center"><a href="https://www.flipkart.com/oppo-enco-w51-active-noise-cancellation-bluetooth-headset/p/itm311f2089bfd69?pid=ACCFV7Z3AHHZT9NB&lid=LSTACCFV7Z3AHHZT9NBKSRTXM&marketplace=FLIPKART&cmpid=content_headphone_10043474080_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,434904834931,,,,c,,,,,,,&gclid=CjwKCAiAnvj9BRA4EiwAuUMDf8OcF8NCPj3OUKXwwS_P7fUfRaULqDEs5x6pbBPQruhsHa6zSOua2BoCwyMQAvD_BwE&gclsrc=aw.ds" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
         </div>
       </div>
     </div>
@@ -146,7 +146,7 @@
       <div class="p-2 bg-light">
         <div class="d-flex">
           <div class="flex-fill text-center"><a href="#" class="btn ">Add to Favourites <span><i class="fa fa-heart-o" aria-hidden="true"></i></span></a></div>
-          <div class="flex-fill text-center"><a href="https://www.amazon.in/OnePlus-E501A-Buds-White/dp/B08CVMXPGY/ref=sr_1_2?dchild=1&keywords=oneplus+buds&qid=1606184641&sr=8-2" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
+          <div class="flex-fill text-center"><a href="https://www.boat-lifestyle.com/products/airdopes-381?variant=31233327071330&currency=INR" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
         </div>
       </div>
     </div>
