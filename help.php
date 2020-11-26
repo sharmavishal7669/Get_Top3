@@ -1,5 +1,6 @@
-<?php ?>
-
+<?php
+include('session.php');
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,9 +10,12 @@
 </head>
 <body>
 <?php require 'navbar1.php' ?>
-
+<div class="mt-5" id="profile" style="background-color: #404040; color:white ;">
+	<br><br>
+<h3 style="font-family: Comic Sans MS"><b id="welcome">We will be happy to help you "<i><?php echo $_SESSION["email"]; ?>"</i></b></h3>
+</div>
 <div class="row"  >
-	<div class="container" style="margin-top: 80px; padding: 20px; border: 3px solid #bbb ">
+	<div class="container" style="margin-top: 40px; padding: 20px; border: 3px solid #bbb ">
 	<div class="row-style-login-page-pannel">
 		<div class="col-sm-9 col-xs-12">
 
