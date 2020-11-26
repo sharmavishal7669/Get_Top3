@@ -30,4 +30,8 @@
     }
      
 } 
+
 ?>
+<div>
+<?php require 'browse1.php'; ?>
+</div>
