@@ -1,8 +1,21 @@
+<?php
+include('session.php');
+?>
 !DOCTYPE html>
 <html>
 <head>
 	<?php require "head.php";?>
 	<title>Contact Us</title>
+	<style>
+		.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px;
+    background:#ccc;
+}
+	</style>
    
 </head>
 <body>
@@ -15,7 +28,7 @@
 
 <a href="indexlogin.php"> <h1><center><?php echo "<br>Continue Searching..!!</center>"; ?></center></h1> </a>
 </div>
-<div>
+<div class="footer">
 <?php require 'footer.php' ?>
 </div>
 </body>
