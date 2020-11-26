@@ -59,7 +59,7 @@
 <div class="d-md-flex flex-sm-column flex-md-row">
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
-      <div class="p-2 bg-light"><div class="h2 text-center"Lenovo Ideapad S340</div></div>
+      <div class="p-2 bg-light"><div class="h2 text-center">Lenovo Ideapad S340</div></div>
       <div class="p-2 w-100 bg-light text-center">
         <img src="imgs/lenovo_ideapad-520-50k.webp" class="w-100 h-100" alt="Lenovo Ideapad S340">
       </div>
