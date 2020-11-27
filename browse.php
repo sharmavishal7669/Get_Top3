@@ -1,3 +1,9 @@
+<?php
+    if(!isset($_SESSION)) 
+    { 
+        session_start(); 
+    } 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +12,14 @@
     <link rel="stylesheet" href="css/browsenow.css">
 </head>
 <body>
-    <?php require "navbar.php";?>
+    <?php
+if(!isset($_SESSION['id'])){ 
+    require 'navbar.php';
+    ?>
+<?php } else { 
+    require 'navbar1.php'; 
+?>
+<?php } ?>
     <br>
     <br>
     

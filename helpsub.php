@@ -26,7 +26,7 @@ include('session.php');
 	<center>Thankyou for contacting us.<br>Our Representative will contact you soon.</center>
 </h1>
 
-<a href="indexlogin.php"> <h1><center><?php echo "<br>Continue Searching..!!</center>"; ?></center></h1> </a>
+<a href="index.php"> <h1><center><?php echo "<br>Continue Searching..!!</center>"; ?></center></h1> </a>
 </div>
 <div class="footer">
 <?php require 'footer.php' ?>

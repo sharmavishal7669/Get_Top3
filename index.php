@@ -1,3 +1,6 @@
+<?php
+session_start();
+ ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -16,7 +19,14 @@
     <div class="d-flex flex-column" style="height:100%;">
 
         <!-- Navbar -->
-        <?php require 'navbar.php'; ?>
+        <?php
+if(!isset($_SESSION['id'])){ 
+    require 'navbar.php';
+    ?>
+<?php } else { 
+    require 'navbar1.php'; 
+?>
+<?php } ?>
 
         <div class="mt-5 page1bg d-flex flex-column justify-content-center">
 

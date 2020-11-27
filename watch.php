@@ -1,3 +1,6 @@
+<?php
+session_start();
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +11,14 @@
 </head>
 <body>
 
-<?php require 'navbar.php';?>
+<?php
+if(!isset($_SESSION['id'])){ 
+    require 'navbar.php';
+    ?>
+<?php } else { 
+    require 'navbar1.php'; 
+?>
+<?php } ?>
 <br><br>
   <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center text-light" style="background-image: url(imgs/ghUDZv.jpg);background-size: cover;background-position: center;">
     <div class="col-md-5 p-lg-5 mx-auto my-5">
