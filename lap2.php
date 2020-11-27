@@ -66,7 +66,7 @@
       <div class="p-2 bg-light">
         <div class="d-flex">
           <div class="flex-fill text-center"><a href="#" class="btn ">Add to Favourites <span><i class="fa fa-heart-o" aria-hidden="true"></i></span></a></div>
-          <div class="flex-fill text-center"><a href="https://www.amazon.in/Acer-15-6-inch-Graphics-Obsidian-AN515-54/dp/B08H9NCMJ7/ref=sr_1_1?dchild=1&keywords=acer+nitro+5&qid=1606309226&s=computers&sr=1-1" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
+          <div class="flex-fill text-center"><a href="https://www.amazon.in/Acer-15-6-inch-Graphics-Obsidian-AN515-54/dp/B08H9NCMJ7/ref=sr_1_1?dchild=1&keywords=acer+nitro+5&qid=1606309226&s=computers&sr=1-1" target="_blank" class="btn ">Buy Now <span><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a></div>
         </div>
       </div>
     </div>
