@@ -164,6 +164,6 @@
         <?php require 'footer.php' ?>
     </div>
         
-
+	<?php require 'scrolltotop.php';?>
     </body>
 </html>
