@@ -21,33 +21,33 @@
 
 <br>
     
-  <div class="d-flex flex-sm-column flex-md-row justify-content-around">
+  <div class="d-flex flex-column flex-md-row justify-content-between">
 
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#1</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Samsung Galaxy Buds</h2>
         <p class="lead">₹8990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/samsung galaxy buds 10000.webp" alt="Samsung"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/samsung galaxy buds 10000.webp" alt="Samsung"></div>
       <a href="#1" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto p-2 my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#2</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Sony WF-XB700</h2>
         <p class="lead">₹7990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/sony wf-xb700 10000.webp" alt="RM buds air pro"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/sony wf-xb700 10000.webp" alt="RM buds air pro"></div>
       <a href="#2" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#3</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Oppo Encore Free</h2>
         <p class="lead">₹5990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/oppo encore free 10000.jpg" alt="Crossbeats"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/oppo encore free 10000.jpg" alt="Crossbeats"></div>
       <a href="#3" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
 

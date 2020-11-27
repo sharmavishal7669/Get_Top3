@@ -21,33 +21,33 @@
 
 <br>
     
-  <div class="d-flex flex-sm-column flex-md-row justify-content-around">
+  <div class="d-flex flex-sm-column flex-md-row justify-content-between                       ">
 
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#1</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Acer Nitro 5</h2>
         <p class="lead">₹56990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/acer_nitro-5-60k.webp" alt="Acer Nitro 5"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/acer_nitro-5-60k.webp" alt="Acer Nitro 5"></div>
       <a href="#1" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#2</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">MSI CX612QF-1828XIN</h2>
         <p class="lead">₹59999</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/msi_cx612qf-60k.webp" alt="MSI CX612QF-1828XIN"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/msi_cx612qf-60k.webp" alt="MSI CX612QF-1828XIN"></div>
       <a href="#2" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#3</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">HP Pavilion Gaming Ryzen 5</h2>
         <p class="lead">₹54990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/HP-15-ec0043ax-Laptops-491894275-i-1-1200Wx1200H.jfif" alt="HP Pavilion Gaming Ryzen 5"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/HP-15-ec0043ax-Laptops-491894275-i-1-1200Wx1200H.jfif" alt="HP Pavilion Gaming Ryzen 5"></div>
       <a href="#3" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
 
