@@ -163,7 +163,7 @@
     <div style="background-color: #333; color:white ;">
         <?php require 'footer.php' ?>
     </div>
-        
+    <?php require 'scrolltotop.php';?>
 
     </body>
 </html>

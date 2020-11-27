@@ -175,6 +175,7 @@ If you’re looking for a sleek yet powerful laptop that is perfect for, both, w
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>

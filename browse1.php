@@ -248,6 +248,6 @@
                 
             </div>  
             </div>
-  
+            <?php require 'scrolltotop.php';?>
 </body>
 </html>

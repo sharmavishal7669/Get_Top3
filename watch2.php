@@ -177,6 +177,7 @@ If you are looking for an elegantly crafted smartwatch, the Honor MagicWatch 2 i
   </div>
 </div>
 <br><br>
+<?php require 'scrolltotop.php';?>
 <?php require 'footer.php'; ?>
     
 </body>
