@@ -16,7 +16,6 @@
     
     if (mysqli_num_rows($result) > 0)
     {
-        echo "Already exist";
         $name_error = "Sorry... username already taken";
     }
     else
@@ -33,5 +32,5 @@
 
 ?>
 <div>
-<?php require 'browse1.php'; ?>
+<?php require 'browse.php'; ?>
 </div>
