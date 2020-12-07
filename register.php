@@ -33,5 +33,5 @@
 
 ?>
 <div>
-<?php require 'browse1.php'; ?>
+<?php require 'browse.php'; ?>
 </div>
