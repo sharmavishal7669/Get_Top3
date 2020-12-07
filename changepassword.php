@@ -9,6 +9,7 @@
     
   </head>
   <body>
+  <?php include 'navbar.php'; ?>
     <div style="width:100vw; height:100vh;" class="d-flex justify-content-center align-items-center">
         <div class="card p-4">
     <form action="" method="POST">
@@ -46,6 +47,7 @@
 </form>
         </div>
     </div>
+    <?php include 'footer.php';?>
   </body>
 </html>
 
@@ -54,7 +56,7 @@
     {
         $old_password = $_POST['oldpassword'];
         $new_password = $_POST['newpassword'];
-        $confirm_password = $_POST['confirmpassword'];;
+        $confirm_password = $_POST['confirmpassword'];
 
         require "dbconfig.php";
 
@@ -69,15 +71,16 @@
         {
             $sql= "UPDATE registration SET password='$new_password' WHERE email='$email'";
             if ($connect->query($sql) === TRUE) {
-                echo "Password updated successfully.";
+                echo '<script>alert("Password updated successfully.");
+                window.location.href="browse.php";</script>'; 
             } else {
                 echo "Error: " . $sql . "<br>" . $connect->error;
             }
         }
         else if($new_password!=$confirm_password)
-            echo "Please check your password";
+            echo '<script>alert("Please check your password!")</script>'; 
         else
-            echo "Your old password is incorrect!";
+            echo '<script>alert("Your old password is incorrect!")</script>';
         
     }
 

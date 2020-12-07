@@ -16,7 +16,6 @@
     
     if (mysqli_num_rows($result) > 0)
     {
-        echo "Already exist";
         $name_error = "Sorry... username already taken";
     }
     else
