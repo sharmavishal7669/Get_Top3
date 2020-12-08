@@ -69,7 +69,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">OnePlus Buds</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/oneplus-buds.jpg" class="w-100 h-100" alt="OnePlus">
       </div>
       <div class="p-2 bg-light">
@@ -109,7 +109,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">OPPO Enco W51</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/OPPO ENCO W51.webp" class="w-100 h-100" alt="OnePlus">
       </div>
       <div class="p-2 bg-light">
@@ -149,7 +149,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">boAt Airdopes 381</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/urban.jpg" class="w-100 h-100" alt="OnePlus">
       </div>
       <div class="p-2 bg-light">
