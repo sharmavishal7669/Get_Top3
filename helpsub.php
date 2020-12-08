@@ -1,4 +1,9 @@
-
+<?php
+    if(!isset($_SESSION)) 
+    { 
+        session_start(); 
+    } 
+?>
 !DOCTYPE html>
 <html>
 <head>
@@ -28,13 +33,13 @@
 <?php
 
 	$con=mysqli_connect("localhost:3308","root","","gettop3") or die(mysqli_error($con));
-	session_start();
+	
  
-	$name=mysqli_real_escape_string($con, $_POST['name']);
-	$email=mysqli_real_escape_string($con, $_POST['email']);
+	
+	$email=mysqli_real_escape_string($con, $_SESSION["email"]);
 	$message=mysqli_real_escape_string($con, $_POST['message']);
 
-	$user_reg="insert into help(name,email,message) values('$name','$email','$message')";
+	$user_reg="insert into help(email,message) values('$email','$message')";
 
 	$result=mysqli_query($con, $user_reg) or die(mysqli_error($user_reg));
 
