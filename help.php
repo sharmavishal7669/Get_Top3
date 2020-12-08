@@ -6,14 +6,9 @@ include('session.php');
 <head>
 	<?php require "head.php";?>
 	<title>Contact Us</title>
-	<style>
-body {
-  background-color: coral;
-}
-</style>
    
 </head>
-<body>
+<body class="bg-dark">
 <?php require 'navbar1.php' ?>
 <div class="mt-5" id="profile" style="background-color: #404040; color:white ;">
 	<br><br>
@@ -22,7 +17,7 @@ body {
 <div class="row"  >
 	<div class="container" style="margin-top: 40px; padding: 20px; border: 3px solid black ">
 	<div class="row-style-login-page-pannel">
-		<div class="col-sm-9 col-xs-12">
+		<div class="col-sm-9 col-xs-12 text-white">
 
 			<h2>LIVE SUPPORT</h2>
 			<h3>24 hours | 7 days a week | 365 days in a year Live Technical Support</h3>
@@ -45,16 +40,9 @@ body {
 <div class="row">
 	<div class="container" style="margin-top: 20px; margin-bottom: 50px;">
 	<div class="row-style-login-page-pannel" >
-		<div class="col-sm-6 col-xs-12" >
+		<div class="col-sm-6 col-xs-12 text-white" >
 			<h3>CONTACT US</h3>
 			<form method="post"  action="helpsub.php">
-				<div class="form-group">
-					Name:<input type="text" class="form-control" name="name" placeholder="Your Name" >
-				</div>
-
-				<div class="form-group">
-					Email Id:<input type="email" class="form-control" name="email" placeholder="Email" >
-				</div>
 
 				<div class="form-group">
 					Message:<textarea rows="4"  class="form-control" name="message" placeholder="Write a message..."></textarea>
