@@ -43,13 +43,6 @@ include('session.php');
 		<div class="col-sm-6 col-xs-12 text-white" >
 			<h3>CONTACT US</h3>
 			<form method="post"  action="helpsub.php">
-				<div class="form-group">
-					Name:<input type="text" class="form-control" name="name" placeholder="Your Name" >
-				</div>
-
-				<div class="form-group">
-					Email Id:<input type="email" class="form-control" name="email" placeholder="Email" >
-				</div>
 
 				<div class="form-group">
 					Message:<textarea rows="4"  class="form-control" name="message" placeholder="Write a message..."></textarea>
