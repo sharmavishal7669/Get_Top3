@@ -31,33 +31,33 @@ if(!isset($_SESSION['id'])){
 
 <br>
     
-  <div class="d-flex flex-sm-column flex-md-row justify-content-around">
+  <div class="d-flex flex-column flex-md-row justify-content-between">
 
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#1</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Realme Narzo 20 Pro</h2>
         <p class="lead">₹13999</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/rmnarzo10000.jpg" alt="Realme Narzo 20 Pro"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/rmnarzo10000.jpg" alt="Realme Narzo 20 Pro"></div>
       <a href="#1" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto p-2 my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#2</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Galaxy M21</h2>
         <p class="lead">₹13999</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/Galaxy-M31s-15k.webp" alt="Galaxy M21"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/Galaxy-M31s-15k.webp" alt="Galaxy M21"></div>
       <a href="#2" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#3</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">POCO M2 Pro</h2>
         <p class="lead">₹13999</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/poco m2 PRo.jpg" alt="POCO M2 Pro"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/poco m2 PRo.jpg" alt="POCO M2 Pro"></div>
       <a href="#3" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
 
