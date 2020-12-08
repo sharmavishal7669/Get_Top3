@@ -69,7 +69,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">HP 15</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/hp_15-40k.webp" class="w-100 h-100" alt="HP 15">
       </div>
       <div class="p-2 bg-light">
@@ -109,7 +109,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Lenovo G50</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/lenovo_g50-40k.webp" class="w-100 h-100" alt="Lenovo G50">
       </div>
       <div class="p-2 bg-light">
@@ -149,7 +149,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Dell Vostro</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/images.jfif" class="w-100 h-100" alt="Dell Vostro">
       </div>
       <div class="p-2 bg-light">

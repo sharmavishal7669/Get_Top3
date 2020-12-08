@@ -70,7 +70,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">POCO X3</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/poco-x3-india-launch-image-2.jpg" class="w-100 h-100" alt="POCO X3">
       </div>
       <div class="p-2 bg-light">
@@ -110,7 +110,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Motorola One Fusion+</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/motorola-one-fusion-20k.webp" class="w-100 h-100" alt="Motorola One Fusion+">
       </div>
       <div class="p-2 bg-light">
@@ -150,7 +150,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Redmi Note 9 Pro Max</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/redmi-note-9-pro-max-380x800-1584000985.webp" class="w-100 h-100" alt="Redmi Note 9 Pro Max">
       </div>
       <div class="p-2 bg-light">

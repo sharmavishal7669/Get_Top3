@@ -69,7 +69,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Fossil Gen 3 Q Explorist</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/fossil-q-explorist-10k.jpg" class="w-100 h-100" alt="Fossil Gen 3 Q Explorist">
       </div>
       <div class="p-2 bg-light">
@@ -109,7 +109,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Huami Amazfit GTS</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/Amazfit-Huami-10k.webp" class="w-100 h-100" alt="Huami Amazfit GTS">
       </div>
       <div class="p-2 bg-light">
@@ -139,7 +139,7 @@ if(!isset($_SESSION['id'])){
       <div class="mt-4 pl-5">
         <div class="h4">Description</div>
         <div class="p text-justify mr-5">
-The Huami Amazfit GTS smartwatch is an elegantly designed fitness wearable that comes with a brilliant 4.19 cm (1.65) AMOLED display that is comfortable to view and comes with modular watch faces that can be customized as per your style. This beautifully crafted smartwatch comes with 14-day battery life, is water-resistant up to a depth of 50 meters and has multiple swimming modes to choose from. Its PPG sensors monitor your heart rate on a 24-hour basis and while you workout, it automatically detects the activity and warns you in case the levels exceed the standard norm. With a 12 sports mode, the Huami Amazfit GTS smartwatch can detect activities such as outdoor running, walking, outdoor cycling, indoor cycling, treadmill, elliptical trainer, hill climb, trail running, swimming, skiing, and gym workouts. Get this smartwatch and work towards that new, healthy you.</div>
+The Huami Amazfit GTS smartwatch is an elegantly designed fitness wearable that comes with a brilliant 4.19 cm (1.65) AMOLED display that is comfortable to view and comes with modular watch faces that can be customized as per your style. This beautifully crafted smartwatch comes with 14-day battery life, is water-resistant up to a depth of 50 meters and has multiple swimming modes to choose from. Its PPG sensors monitor your heart rate on a 24-hour basis and while you workout, it automatically detects the activity and warns you in case the levels exceed the standard norm. With a 12 sports mode, the Huami Amazfit GTS smartwatch can detect activities such as outdoor running, walking, outdoor cycling, indoor cycling, treadmill, elliptical trainer, hill climb, trail running, swimming, skiing, and gym workouts.</div>
       </div>
     </div>
   </div>
@@ -151,7 +151,7 @@ The Huami Amazfit GTS smartwatch is an elegantly designed fitness wearable that 
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">NoiseFit Endure Sport</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/wrb-sw-endure-std-blk-red-android-ios-noise-original-imafr9s5fzv7dxch.jpeg" class="w-100 h-100" alt="NoiseFit Endure Sport">
       </div>
       <div class="p-2 bg-light">

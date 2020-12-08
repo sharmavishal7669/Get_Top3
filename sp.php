@@ -70,7 +70,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Moto E7 plus</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/motoe7plus10000.jfif" class="w-100 h-100" alt="Moto E7 plus">
       </div>
       <div class="p-2 bg-light">
@@ -111,7 +111,7 @@ Love clicking pictures at night? Well, then this Motorola smartphone might just 
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">RealME C3</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/realmec310000.jfif" class="w-100 h-100" alt="RealME C3">
       </div>
       <div class="p-2 bg-light">
@@ -151,7 +151,7 @@ Love clicking pictures at night? Well, then this Motorola smartphone might just 
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">RealMe Narzo 10A</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/41m3-OVtnQL.jpg" class="w-100 h-100" alt="RealMe Narzo 10A">
       </div>
       <div class="p-2 bg-light">

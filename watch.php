@@ -70,7 +70,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Noise ColorFit Pro 2</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/noise-5k.jpg" class="w-100 h-100" alt="Noise ColorFit Pro 2">
       </div>
       <div class="p-2 bg-light">
@@ -108,8 +108,8 @@ if(!isset($_SESSION['id'])){
 <div class="d-md-flex flex-sm-column flex-md-row">
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
-      <div class="p-2 bg-light"><div class="h2 text-center">Portronics YOGG KRONOS Smartwatch</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 bg-light"><div class="h2 text-center">Portronics YOGG KRONOS</div></div>
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/por-991-portronics-original-imafmrbcm2mvgdes.jpeg" class="w-100 h-100" alt="Portronics YOGG KRONOS Smartwatch">
       </div>
       <div class="p-2 bg-light">
@@ -149,7 +149,7 @@ Yogg Kronos is touch-enabled 1.3 inch color screen and tracks your heart rate an
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Noise EDGE Smartwatch</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/noi-edge-smartwatch-black-noise-original-imaenczy7mfghdgh.jpeg" class="w-100 h-100" alt="Noise EDGE Smartwatch">
       </div>
       <div class="p-2 bg-light">

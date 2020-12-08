@@ -69,7 +69,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Samsung Galaxy Watch</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/sm-r810nzkainu-samsung-original-imafag8ycmz4kgyz.jpeg" class="w-100 h-100" alt="Samsung Galaxy Watch">
       </div>
       <div class="p-2 bg-light">
@@ -109,7 +109,7 @@ if(!isset($_SESSION['id'])){
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Fitbit Versa Lite</div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/fitbit_versa_lite_15k.webp" class="w-100 h-100" alt="Fitbit Versa Lite">
       </div>
       <div class="p-2 bg-light">
@@ -150,7 +150,7 @@ Make every step you take towards fitness count. For anyone who’s looking to lo
   <div class="p-2 bg-light">
     <div class="d-flex flex-column" style="width:450px;height420px;">
       <div class="p-2 bg-light"><div class="h2 text-center">Honor Magic Watch 2 </div></div>
-      <div class="p-2 w-100 bg-light text-center">
+      <div class="p-2 w-100 bg-light text-center mx-auto" style="height:350px; width:350px;">
         <img src="imgs/minos-b19v-honor-original-imafqzbqdkgryyfg.jpeg" class="w-100 h-100" alt="Honor Magic Watch 2 ">
       </div>
       <div class="p-2 bg-light">
