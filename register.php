@@ -1,4 +1,5 @@
 <?php
+
     if(isset($_POST['submit']))
     {
         $firstName = $_POST['fname'];
@@ -16,23 +17,23 @@
     
     if (mysqli_num_rows($result) > 0)
     {
-        echo '<script>alert("Sorry... username already taken! Redirecting to register page.")</script>'; 
-        header('Location: registerpage.php');
+        echo "<script>alert('This user already exist. Try with another email.')</script><br><br>";
+        $stmt->close();
+        header( "refresh:3;url=registerpage.php" );
+        echo 'You\'ll be redirected in about 3 secs. If not, click <a href="registerpage.php">here</a>.'; 
     }
     else
     {
         $stmt = $connect->prepare("insert into registration(firstName, lastName, email, password, phoneNo) values(?, ?, ? ,?, ?)");
         $stmt->bind_param("ssssi",$firstName, $lastName, $email, $password, $phoneNo);
         $stmt->execute();
-        echo '<script>alert("Registration Successful!")</script>';
-        header('Location: loginpage.php');
         $stmt->close();
         $connect->close();
+        echo "<script>alert('Registration Successfull!')</script>";
+        header( "refresh:3;url=loginpage.php" );
+        echo 'You\'ll be redirected in about 3 secs. If not, click <a href="loginpage.php">here</a>.'; 
     }
-     
+    
 } 
-
+    
 ?>
-<div>
-<?php require 'browse.php'; ?>
-</div>
