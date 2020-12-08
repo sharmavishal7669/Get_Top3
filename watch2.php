@@ -30,33 +30,33 @@ if(!isset($_SESSION['id'])){
 
 <br>
     
-  <div class="d-flex flex-sm-column flex-md-row justify-content-around">
+  <div class="d-flex flex-column flex-md-row justify-content-between">
 
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#1</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Samsung Galaxy Watch</h2>
         <p class="lead">₹14990</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/sm-r810nzkainu-samsung-original-imafag8ycmz4kgyz.jpeg" alt="Samsung Galaxy Watch"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/sm-r810nzkainu-samsung-original-imafag8ycmz4kgyz.jpeg" alt="Samsung Galaxy Watch"></div>
       <a href="#1" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill mx-auto p-2 my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#2</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Fitbit Versa Lite</h2>
         <p class="lead">₹14399</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/fitbit_versa_lite_15k.webp" alt="Fitbit Versa Lite"></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/fitbit_versa_lite_15k.webp" alt="Fitbit Versa Lite"></div>
       <a href="#2" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill p-2 m-3 text-center overflow-hidden">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#3</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Honor Magic Watch 2 </h2>
         <p class="lead">₹11490</p>
       </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/minos-b19v-honor-original-imafqzbqdkgryyfg.jpeg" alt="Honor Magic Watch 2 "></div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/minos-b19v-honor-original-imafqzbqdkgryyfg.jpeg" alt="Honor Magic Watch 2 "></div>
       <a href="#3" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
 

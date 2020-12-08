@@ -31,9 +31,9 @@ if(!isset($_SESSION['id'])){
 
 <br>
     
-  <div class="d-flex flex-sm-column flex-md-row justify-content-between                       ">
+  <div class="d-flex flex-column flex-md-row justify-content-between">
 
-    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#1</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">Acer Nitro 5</h2>
@@ -42,7 +42,7 @@ if(!isset($_SESSION['id'])){
       <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/acer_nitro-5-60k.webp" alt="Acer Nitro 5"></div>
       <a href="#1" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
+    <div class="bg-info flex-md-fill mx-auto p-2 my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#2</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">MSI CX612QF-1828XIN</h2>
@@ -51,7 +51,7 @@ if(!isset($_SESSION['id'])){
       <div class="bg-dark shadow-sm mx-auto" style="width:250px; height: 200px; border-radius: 21px 21px 0 0;"><img style="width: 100%; height: inherit;border-radius:inherit;" src="imgs/msi_cx612qf-60k.webp" alt="MSI CX612QF-1828XIN"></div>
       <a href="#2" class="btn btn-dark px-5">Full Details <span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
     </div>
-    <div class="bg-info flex-md-fill mx-auto my-2 p-2 text-center overflow-hidden" style="width:300px;height:450px;">
+    <div class="bg-info flex-md-fill p-2 mx-auto my-2 text-center overflow-hidden" style="width:300px;height:450px;">
       <div><p class="h3">#3</p></div>
       <div class="my-3 p-1">
         <h2 class="display-5">HP Pavilion Gaming Ryzen 5</h2>
