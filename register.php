@@ -16,14 +16,16 @@
     
     if (mysqli_num_rows($result) > 0)
     {
-        $name_error = "Sorry... username already taken";
+        echo '<script>alert("Sorry... username already taken! Redirecting to register page.")</script>'; 
+        header('Location: registerpage.php');
     }
     else
     {
         $stmt = $connect->prepare("insert into registration(firstName, lastName, email, password, phoneNo) values(?, ?, ? ,?, ?)");
         $stmt->bind_param("ssssi",$firstName, $lastName, $email, $password, $phoneNo);
         $stmt->execute();
-        echo "Registration Successfull!";
+        echo '<script>alert("Registration Successful!")</script>';
+        header('Location: loginpage.php');
         $stmt->close();
         $connect->close();
     }
